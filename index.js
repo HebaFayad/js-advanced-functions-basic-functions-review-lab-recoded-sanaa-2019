@@ -15,3 +15,4 @@ function wrapAdjective() {
  };
 }
 wrapAdjective();
+let encouragingPromptFunction = wrapAdjective("!!!");
