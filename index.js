@@ -4,7 +4,7 @@ function saturdayFun(target="roller-skate") {
 }
 saturdayFun();
 //two
-function mondayWork(target="roller-skate") {
+function mondayWork(target="go to the office") {
   console.log(`This Monday, I will ${target}!`);
 }
 mondayWork();
