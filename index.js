@@ -8,3 +8,4 @@ function mondayWork(target="go to the office") {
   console.log(`This Monday, I will ${target}!`);
 }
 mondayWork();
+//three
