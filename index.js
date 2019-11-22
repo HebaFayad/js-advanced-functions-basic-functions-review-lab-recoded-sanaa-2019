@@ -16,3 +16,4 @@ function wrapAdjective(arg="*") {
 }
 wrapAdjective();
 let encouragingPromptFunction = wrapAdjective("!!!");
+encouragingPromptFunction();
