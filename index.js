@@ -9,7 +9,9 @@ function mondayWork(target="go to the office") {
 }
 mondayWork();
 //three
-function wrapAdjective(target="go to the office") {
-  console.log(`This Monday, I will ${target}!`);
+function wrapAdjective() {
+ return function(one=""){
+   
+ };
 }
 mondayWork();
