@@ -17,3 +17,4 @@ function wrapAdjective(arg="*") {
 wrapAdjective();
 let encouragingPromptFunction = wrapAdjective("!!!");
 encouragingPromptFunction();
+wrapAdjective("%")("a dedicated programmer");
