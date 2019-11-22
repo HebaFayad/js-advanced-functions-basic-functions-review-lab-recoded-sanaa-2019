@@ -10,7 +10,7 @@ function mondayWork(target="go to the office") {
 mondayWork();
 //three
 function wrapAdjective() {
- return function(one=""){
+ return function(one="special"){
    
  };
 }
