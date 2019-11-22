@@ -5,6 +5,6 @@ function saturdayFun(target="roller-skate") {
 saturdayFun();
 //two
 function mondayWork(target="roller-skate") {
-  console.log(`This Saturday, I want to ${target}!`);
+  console.log(`This Monday, I will ${target}!`);
 }
 mondayWork();
