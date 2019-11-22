@@ -9,7 +9,7 @@ function mondayWork(target="go to the office") {
 }
 mondayWork();
 //three
-function wrapAdjective("*") {
+function wrapAdjective() {
  return function(one="special"){
    return `You are ${one}!`
  };
